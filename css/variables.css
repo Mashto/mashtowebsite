@@ -1,0 +1,13 @@
+:root {
+    --c-primary: rgba(237, 228, 183, 1);
+    --c-secondary: rgba(65, 48, 38, 1);
+    --c-tertiary: rgba(17, 167, 84, 1);
+    --c-quaternary: rgba(255, 138, 10, 1);
+    --c-quinary: rgba(196, 52, 4, 1);
+
+    --c-light: rgb(233, 233, 233);
+    --c-dark: rgb(44, 44, 44);
+
+    --c-additional: rgba(17, 167, 84, 1);
+    --c-additional2: rgba(17, 167, 84, 1);
+}
