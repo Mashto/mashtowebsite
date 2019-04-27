@@ -24,11 +24,11 @@ CSSVariables.style.setProperty("--c-primary", colorVariables[Math.floor(Math.ran
 
 if ([2].includes(colorVariables.indexOf(CSSVariables.style.getPropertyValue("--c-primary")))) {
     CSSVariables.style.setProperty("--c-additional", lightDarkColors[0]);
-    CSSVariables.style.setProperty("--c-additional2", lightDarkColors[1]);
+    // CSSVariables.style.setProperty("--c-additional2", lightDarkColors[1]);
     console.log('true');
 } else {
     CSSVariables.style.setProperty("--c-additional", lightDarkColors[1]);
-    CSSVariables.style.setProperty("--c-additional2", lightDarkColors[0]);
+    // CSSVariables.style.setProperty("--c-additional2", lightDarkColors[0]);
     console.log('false');
 }
 
