@@ -7,8 +7,8 @@ let colorVariables = [
 ];
 
 let lightDarkColors = [
-    "rgb(233, 233, 233)",
-    "rgb(44, 44, 44)"
+    "rgb(220, 220, 220)",
+    "rgb(55, 55, 55)"
 ]
 // let variableStylesheet = document.styleSheets[0].cssRules[0].href;
 // // variableStylesheet.addRule("")
